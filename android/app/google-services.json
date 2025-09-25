@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876842317392",
+    "project_id": "smartstay-3c784",
+    "storage_bucket": "smartstay-3c784.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876842317392:android:3ebc9f6384e84e4d308355",
+        "android_client_info": {
+          "package_name": "com.example.smart_stay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi5XaU9i_gUeLxMfgmyoQ03HV823UhsAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

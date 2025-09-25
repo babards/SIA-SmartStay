@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smartstay-3c784",
+          "appId": "1:876842317392:android:3ebc9f6384e84e4d308355",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smartstay-3c784",
+          "configurations": {
+            "android": "1:876842317392:android:3ebc9f6384e84e4d308355",
+            "ios": "1:876842317392:ios:d588682eb6b2eb77308355",
+            "web": "1:876842317392:web:97ae01e6580fd52e308355",
+            "windows": "1:876842317392:web:11ffcc946888bd9f308355"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
