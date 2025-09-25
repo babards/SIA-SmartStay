@@ -2,7 +2,7 @@
 
 ## Overview
 
-SMARTSTAY is an innovative rental platform that revolutionizes the housing search experience by integrating real-time weather monitoring, advanced mapping technology, and comprehensive safety analytics. Our platform empowers both tenants and landlords to make informed decisions based on location safety, weather patterns, and property features.
+SMARTSTAY is an innovative rental platform that revolutionizes the housing search experience by integrating real-time weather monitoring, and comprehensive mapping. Our platform empowers both tenants and landlords to make informed decisions based on location safety, weather patterns, and property features.
 
 ## 🌟 Key Features
 
