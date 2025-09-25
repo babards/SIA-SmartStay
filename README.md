@@ -13,12 +13,12 @@ SMARTSTAY is an innovative rental platform that revolutionizes the housing searc
 - Streamlined application system
 - Advanced mapping solutions with property locations
 - Analytics dashboard
-  
+
 ### 🌦️ Proactive Weather Monitoring Alerts
 - Real-time weather data integration
 - Severe weather notifications
 - Historical weather pattern analysis
-  
+
 ## 🏗️ Technology Stack
 ### Frontend
 - **Flutter (Dart)** - Cross-platform mobile application framework
@@ -27,7 +27,7 @@ SMARTSTAY is an innovative rental platform that revolutionizes the housing searc
 ### Backend
 - **Firebase** - Backend-as-a-Service platform
 - **Firebase Cloud Messaging** - Push notifications
-- 
+  
 ### Database
 - **Firebase Firestore** - NoSQL document database
 - **Firebase Realtime Database** - Real-time data synchronization
@@ -40,4 +40,3 @@ SMARTSTAY is an innovative rental platform that revolutionizes the housing searc
 ### Development & Deployment
 - **GitHub** - Version control and collaboration
 - **Firebase Hosting** - Web hosting
-  
